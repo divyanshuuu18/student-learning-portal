@@ -74,4 +74,4 @@ Visit the official Python website: [Python.org](https://www.python.org)
 
 ## Repository
 
-Git Repository URL: [https://github.com/divyanshuuu18/student-learning-portal](https://github.com/divyanshuuu18/student-learning-portal)l
+Git Repository URL: [https://github.com/divyanshuuu18/student-learning-portal](https://github.com/divyanshuuu18/student-learning-portal)
